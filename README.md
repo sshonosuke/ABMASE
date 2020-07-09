@@ -1,6 +1,6 @@
 This repository provides R code implementing approximate Bayesian model-assisted survey regression, as proposed by the following paper.
 
-Sugasawa, S. and Kim, J. K. (2020). An approximate Bayesian approach to model-assisted survey estimation with many auxiliary variables.  https://arxiv.org/abs/1906.04398
+Sugasawa, S. and Kim, J. K. (2019). An approximate Bayesian approach to model-assisted survey estimation with many auxiliary variables.  https://arxiv.org/abs/1906.04398
 
 The repository includes the following 4 files.
 
